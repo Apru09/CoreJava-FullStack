@@ -12,3 +12,4 @@
 * While Loop.
 * Do-While Loop.
 * Arrays.
+* Enhanced For Loop.

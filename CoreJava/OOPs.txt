@@ -1,0 +1,9 @@
+* Classes and objects.
+* Default Constructor, Parameterized constructor.
+* Static variable, static method and static block.
+* Encapsulation.
+* Inheritance.
+* Polymorphism (Method overloading {Compile time polymorphism [Early Binding] }, Method Overriding {Run time polymorphism [Late Binding] })
+* Dynamic method dispatch
+* Abstraction (Abstract methods and classes)
+* Interfaces. 

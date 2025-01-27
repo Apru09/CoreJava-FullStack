@@ -1,0 +1,3 @@
+This project is a Quiz application made using the concepts of OOPs we have learnt till now.
+For now, the questions are hardcoded and user will be asked those questions sequentially.
+Next question will be asked after the user has responded.

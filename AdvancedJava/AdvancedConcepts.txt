@@ -1,1 +1,11 @@
-
+* Inner classes.
+* Anonymous inner classes.
+* Abstract keyword.
+* Interfaces.
+* Types of interfaces.
+* Enumeration in java (or) Java Enum.
+* Enum switch.
+* Annotations in java.
+* Types of interfaces.
+* Lambda expressions.
+* Lambda expressions returning value.

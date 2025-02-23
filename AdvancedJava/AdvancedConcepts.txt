@@ -9,3 +9,16 @@
 * Types of interfaces.
 * Lambda expressions.
 * Lambda expressions returning value.
+*
+*
+*
+* Exception Handling.
+* Exception Hierarchy.
+* Try-catch.
+* Throw and Throws.
+* Custom Exception.
+* Try block with resources.
+
+* Taking input from user.
+* BufferedReader vs Scanner.
+

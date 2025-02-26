@@ -22,3 +22,19 @@
 * Taking input from user.
 * BufferedReader vs Scanner.
 
+* MultiThreading.
+* Thread states.
+* Multiple threads.
+* Thread vs Runnable.
+* Race condition / Deadlocking.
+* Synchronized keyword.
+
+* Collections.
+* Arraylist.
+* Linkedlist.
+* Hashset.
+* Treeset.
+* Hashmap.
+* Stack.
+
+

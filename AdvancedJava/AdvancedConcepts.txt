@@ -37,4 +37,6 @@
 * Hashmap.
 * Stack.
 
+* Object serialization and deserialization.
+
 

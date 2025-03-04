@@ -19,8 +19,17 @@
 * Custom Exception.
 * Try block with resources.
 
+* 
+*
+*
+
 * Taking input from user.
 * BufferedReader vs Scanner.
+
+*
+*
+*
+
 
 * MultiThreading.
 * Thread states.
@@ -29,6 +38,11 @@
 * Race condition / Deadlocking.
 * Synchronized keyword.
 
+*
+*
+*
+
+
 * Collections.
 * Arraylist.
 * Linkedlist.
@@ -36,5 +50,10 @@
 * Treeset.
 * Hashmap.
 * Stack.
+
+*
+*
+*
+
 
 * Object serialization and deserialization.

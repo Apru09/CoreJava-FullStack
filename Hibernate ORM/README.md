@@ -1,4 +1,4 @@
-#Hibernate
+# Hibernate
 I used Intellij idea as IDE and Maven as project build tool. This basically provides the structure or archtype (template) of the project required. The tool also keeps running
 and updates the dependencies if added.
 
